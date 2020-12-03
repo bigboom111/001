@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Project</string>
+
+    <!--URL-->
+    <string name="root_url">http://192.168.1.76:8080/ProjectMobile</string>
+    <string name="register_url">/members/add</string>
+    <string name="do_login">/members/login</string>
+    <string name="get_allMovie">/Movie/getAllMovie</string>
+    <string name="get_allTypeMovie">/Movie/getAllTypeMovie</string>
+    <string name="get_addMyMovie">/Movie/MyMovieAdd</string>
+    <string name="get_listMyMovie">/Movie/getListAllMovie</string>
+    <string name="get_FavorteRemove">/Favorte/getRemove</string>
+
+
+    <!--ERROR-->
+    <string name="global">Error,please try again.</string>
+</resources>
